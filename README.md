@@ -1,2 +1,2 @@
 # 100-Days-of-Learning-Python
-Recording my Python learning journey 
+# Recording my Python learning journey
